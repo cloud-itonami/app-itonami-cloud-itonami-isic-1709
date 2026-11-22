@@ -22,8 +22,7 @@ fleet.
 
 The closest domain analogs are `cloud-itonami-isic-1701` (Manufacture
 of pulp, paper and paperboard) and `cloud-itonami-isic-1702`
-(Manufacture of corrugated paper and paperboard and of containers of
-paper and paperboard): all three are back-office coordination actors
+(ISIC 1702): all three are back-office coordination actors
 for a fixed processing PLANT (not a field site) with converting-line
 equipment and a physical-safety dimension, and a central ground-truth
 **production batch** entity independently gated alongside an
